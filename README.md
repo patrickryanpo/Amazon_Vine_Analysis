@@ -24,19 +24,19 @@ For the category of video games, I would suggest to perform analysis on the veri
 
 Below are screen shots of the data samples available in our Postgres database. 
 
-Customers Table:
+**Customers Table:**
 
 ![Customers Table](https://github.com/patrickryanpo/Amazon_Vine_Analysis/blob/main/Resources/Customers%20Table.png)
 
-Products Table:
+**Products Table:**
 
 ![Products Table](https://github.com/patrickryanpo/Amazon_Vine_Analysis/blob/main/Resources/Products%20Table.png)
 
-Review ID Table: 
+**Review ID Table:**
 
 ![Review ID Table](https://github.com/patrickryanpo/Amazon_Vine_Analysis/blob/main/Resources/Review%20ID%20Table.png)
 
-Vine Table:
+**Vine Table:**
 
 ![Vine Table](https://github.com/patrickryanpo/Amazon_Vine_Analysis/blob/main/Resources/Vine%20Table.png)
 
